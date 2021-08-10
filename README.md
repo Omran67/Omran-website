@@ -18,6 +18,4 @@ Skills: HTML / CSS /JS /Adobe Creative Cloud
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=@Omran67)  
-
 ![Profile views](https://gpvc.arturio.dev/@Omran67)  
