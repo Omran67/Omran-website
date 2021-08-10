@@ -1,6 +1,6 @@
 ### Hi there 👋, Omran Al Hariri
 #### Design and IT
-![Design and IT](https://lh3.googleusercontent.com/dhwoiqk2Lr7-8z0Env7plfqASoWTFs6y_Nc2SYhcfW22WkIPtj_5xwaf9z5EZXe3Whoj=s170)
+![Design and IT](https://github.com/Omran67/Omran67/blob/main/background%20img.png?raw=true)
 
 I am interested in IT world back-end and front-end. I have been improved my skills in web Development and keep improving. I am very interested in winc, Java, Javascript, Web-Development....
 
