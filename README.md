@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Omran67/Omran67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-background-image: url(file:///C:/Users/PC/Desktop/img/background%20img.png);
+I’m Omran Al Hariri I’m currently looking for an !
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)inters
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
