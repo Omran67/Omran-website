@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 I’m Omran Al Hariri I’m currently looking for an !
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)inters
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 Here are some ideas to get you started:
 
