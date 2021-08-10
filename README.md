@@ -2,7 +2,7 @@
 #### Design and IT
 ![Design and IT](https://github.com/Omran67/Omran67/blob/main/background%20img.png?raw=true)
 
-I am interested in IT world back-end and front-end. I have been improved my skills in web Development and keep improving. I am very interested in winc, Java, Javascript, Web-Development....
+I am interested in IT world back-end and front-end. I have been improved my skills in web Development and keep improving. I am very interested in  Javascript, Web-Development, Java and wincc
 
 Skills: HTML / CSS /JS /Adobe Creative Cloud
 
