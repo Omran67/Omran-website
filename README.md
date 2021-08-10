@@ -2,7 +2,7 @@
 
 <!--
 **Omran67/Omran67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+background-image: url(file:///C:/Users/PC/Desktop/img/background%20img.png);
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
